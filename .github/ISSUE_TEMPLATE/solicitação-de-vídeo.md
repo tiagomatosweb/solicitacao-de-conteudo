@@ -14,7 +14,7 @@ O tópico deve um dos itens abaixo
 - Ecossistema Vue.js
 - Javascript puro
 
-** Sobre o que é o vídeo?**
+**Sobre o que é o vídeo?**
 Uma descrição clara e concisa do que você deseja.
 
 **Exemplo prático**
