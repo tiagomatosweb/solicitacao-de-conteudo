@@ -4,7 +4,7 @@ Bem-vindo ao repositório de Solicitação de Conteúdo! Este espaço é dedicad
 
 ## Como funciona
 
-1. Abra uma [nova issue](https://github.com/tiagomatosweb/solicitacao-de-video/issues/new/choose) no repositório.
+1. Abra uma [nova issue](https://github.com/tiagomatosweb/solicitacao-de-conteudo/issues/new/choose) no repositório.
 
 2. Descreva sua ideia ou solicitação de vídeo em detalhes. Seja claro e específico sobre o que você gostaria de ver em um vídeo.
 
