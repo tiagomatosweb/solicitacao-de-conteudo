@@ -1,6 +1,6 @@
-# Solicitação de vídeos
+# Solicitação de conteúdo
 
-Bem-vindo ao repositório de Solicitação de Vídeos! Este espaço é dedicado à comunidade, onde você pode enviar suas ideias e solicitações de tópicos para futuros vídeos em meu canal do YouTube.
+Bem-vindo ao repositório de Solicitação de Conteúdo! Este espaço é dedicado à comunidade, onde você pode enviar suas ideias e solicitações de tópicos para futuros vídeos em meu canal do YouTube.
 
 ## Como funciona
 
