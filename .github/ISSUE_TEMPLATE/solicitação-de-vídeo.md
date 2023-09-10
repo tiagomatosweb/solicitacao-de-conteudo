@@ -1,6 +1,6 @@
 ---
 name: Solicitação de vídeo
-about: Sugira uma ideia de vídeo
+about: Sugira uma ideia de vídeo para gravação
 title: ''
 labels: ''
 assignees: ''
